@@ -834,10 +834,8 @@ ol {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
-.privacy-icon {
-  display: inline-flex;
-}
-.check-text span {
+
+.check-text .privacy-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
